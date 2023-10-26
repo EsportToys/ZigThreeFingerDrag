@@ -1,3 +1,3 @@
 # ZigThreeFingerDrag
 
-My [PrecisionThreeFingerDrag](https://github.com/esporttoys/precisionthreefingerdrag) AutoIt script rewritten in Zig.
+A rewrite of my [PrecisionThreeFingerDrag](https://github.com/esporttoys/precisionthreefingerdrag) AutoIt script in Zig.
